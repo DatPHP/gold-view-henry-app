@@ -135,3 +135,8 @@ npm start
 - **API key handling** – If any provider moves to API keys, centralize secrets in env (e.g. `GOLD_API_KEY`, `GIAVANG_API_KEY`) and use them only in server routes.
 
 Keeping **API routes thin** (fetch → normalize → JSON) and **hooks + UI generic** (e.g. a reusable `GoldCard` component) will make adding new sources and regions straightforward.
+
+- Author: Henry Nguyen 
+- Email: nguyenvandat170296@gmail.com
+- Phone: +60135748415 (whatsapp)
+- zalo: 09135748415 
